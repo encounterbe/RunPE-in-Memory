@@ -3,10 +3,10 @@ This repository contains a C# program that demonstrates the execution of an exec
 
 
 ## Features
-Downloads an executable from a specified URL.
-Executes the executable directly in-memory.
-Uses a temporary file to facilitate in-memory execution.
-Demonstrates basic process handling and asynchronous execution.
+- Downloads an executable from a specified URL.
+- Executes the executable directly in-memory.
+- Uses a temporary file to facilitate in-memory execution.
+- Demonstrates basic process handling and asynchronous execution.
 
 ## Usage
 - Provide the direct download link of the executable in the code.
